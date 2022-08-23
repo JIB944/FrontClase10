@@ -1,0 +1,35 @@
+ *{ box-sizing: border-box;
+
+ }
+ 
+ .tarjeta{
+            display: inline-block;
+    background-color: #F3F3F3;
+    width: 300px;
+    border-radius: 10px ;
+    box-shadow: 5px rgba(0, 0, 0, 0.25);
+    position: relative;
+    
+ }
+
+ .fondo{
+
+
+
+ }
+
+ .retrato{
+        
+ }
+ .corazon{
+    position: absolute;
+    left: 15px;
+    top: 21px;
+ }
+
+ /*X: 32px
+Y: 293px
+W: 300px
+H: 193px
+Top left radius: 16px
+Top right radius: 16px*/
